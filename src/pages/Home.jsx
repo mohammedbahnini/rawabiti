@@ -9,7 +9,7 @@ import Footer from '../components/Home/Footer/Footer';
 function Home() {
 
 
-    const [lang, setLang] = useState('en');
+    const [lang, setLang] = useState('ar');
 
     useEffect(() => {
         const localStortageLang = localStorage.getItem('lang');
