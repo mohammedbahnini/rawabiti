@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container{
+    @apply mx-auto max-w-[90.5rem] px-6;
+  }
+  .btn{
+    @apply border-none outline-none cursor-pointer bg-cyan py-[0.666em] px-[1.3em] rounded-xl inline-block text-center min-w-[13rem] font-semibold ;
+  }
+  .form-text{
+    @apply block py-[1.3em] px-[1.6em] outline-none border-none rounded-xl shadow-black/20 shadow-[0_2px_16px_0];
+  }
+  .input-link input{
+    background-position: calc(100% - 10px) center;
+  }
+
+
+}
+
+@layer utilities {
+  .active{
+    @apply text-purple;
+  }
+  .open{
+    @apply translate-x-0;
+  }
+}
+
+

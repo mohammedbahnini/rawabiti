@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="624" viewBox="0 0 1100 624">
+  <g id="Groupe_228" data-name="Groupe 228" transform="translate(-862.382 -1129.137)">
+    <g id="join" transform="translate(1627.524 1303.196)">
+      <g id="Groupe_189" data-name="Groupe 189" transform="translate(0 0)">
+        <g id="Groupe_188" data-name="Groupe 188" transform="translate(0 0)">
+          <g id="Groupe_187" data-name="Groupe 187">
+            <g id="Groupe_186" data-name="Groupe 186">
+              <g id="Groupe_185" data-name="Groupe 185">
+                <g id="Groupe_184" data-name="Groupe 184">
+                  <g id="Groupe_183" data-name="Groupe 183">
+                    <g id="Groupe_182" data-name="Groupe 182">
+                      <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="167.5" cy="166" rx="167.5" ry="166" transform="translate(-0.142 -0.058)" fill="#0eddb2"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_197" data-name="Groupe 197" transform="translate(56.748 55.878)">
+        <g id="Groupe_190" data-name="Groupe 190" transform="translate(32.417 120.641)">
+          <path id="Tracé_314" data-name="Tracé 314" d="M168.212,271.862l-25.059,25.059a24.953,24.953,0,0,0,35.289,35.289L203.5,307.151a57.341,57.341,0,0,1-35.289-35.289Z" transform="translate(-135.857 -271.862)" fill="none"/>
+        </g>
+        <g id="Groupe_191" data-name="Groupe 191" transform="translate(120.639 32.418)">
+          <path id="Tracé_315" data-name="Tracé 315" d="M307.151,203.5l25.059-25.059a24.953,24.953,0,0,0-35.289-35.289l-25.059,25.059A57.34,57.34,0,0,1,307.151,203.5Z" transform="translate(-271.862 -135.856)" fill="none"/>
+        </g>
+        <g id="Groupe_192" data-name="Groupe 192" transform="translate(85.878 85.915)">
+          <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="12.785" cy="21.78" rx="12.785" ry="21.78" transform="translate(0 18.077) rotate(-45)" fill="none"/>
+        </g>
+        <g id="Groupe_193" data-name="Groupe 193" transform="translate(0 64.774)">
+          <path id="Tracé_316" data-name="Tracé 316" d="M206.521,185.736l-19.329,19.329a24.8,24.8,0,0,0-6.36,10.848,24.953,24.953,0,0,1,24.441,41.65l-19.329,19.329-25.059,25.059A24.953,24.953,0,0,1,125.6,266.662L150.655,241.6a57.6,57.6,0,0,1,5.918-49.949,57.416,57.416,0,0,0-9.522,7.686l-44.388,44.388a57.387,57.387,0,0,0,81.157,81.157L228.208,280.5a57.377,57.377,0,0,0-21.686-94.761Z" transform="translate(-85.882 -185.736)" fill="#a82dec"/>
+        </g>
+        <g id="Groupe_195" data-name="Groupe 195" transform="translate(61.595)">
+          <path id="Tracé_318" data-name="Tracé 318" d="M242.007,102.661l-44.388,44.388A57.378,57.378,0,0,0,219.3,241.809l19.329-19.329a24.8,24.8,0,0,0,6.36-10.848,24.954,24.954,0,0,1-24.441-41.65l19.329-19.329,25.059-25.059a24.953,24.953,0,0,1,35.289,35.289L275.17,185.942a57.6,57.6,0,0,1-5.918,49.949,57.424,57.424,0,0,0,9.522-7.686l44.388-44.388a57.386,57.386,0,1,0-81.155-81.157Z" transform="translate(-180.838 -85.879)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="روابط" transform="translate(862.382 1563.137)" fill="#4a4a4a" font-size="333" font-family="Cairo-Black, Cairo" font-weight="800"><tspan x="0" y="0">روابط</tspan></text>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="64" height="61" transform="translate(1169.382 1574.137)" fill="#a82dec"/>
+  </g>
+</svg>

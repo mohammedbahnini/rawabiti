@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1515.068" height="2862.58" viewBox="0 0 1515.068 2862.58">
+  <defs>
+    <filter id="body" x="0" y="0" width="1515.068" height="2862.58" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="screen" d="M1068.158,2661.089H127.54A127.434,127.434,0,0,1,0,2533.549V199.543A127.434,127.434,0,0,1,127.54,72H248.707a15.964,15.964,0,0,1,15.941,15.657v9.852a70.09,70.09,0,0,0,70.146,70.149H867.281a63.719,63.719,0,0,0,63.77-63.773V87.941A15.963,15.963,0,0,1,946.977,72h121.181A127.437,127.437,0,0,1,1195.7,199.543V2533.549a127.433,127.433,0,0,1-127.54,127.54Z" transform="translate(0 -72)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ac2bef"/>
+      <stop offset="1" stop-color="#18a386"/>
+    </linearGradient>
+  </defs>
+  <g id="white-mockup" transform="translate(-156.915 -136.868)">
+    <g id="phone" transform="translate(246.915 226.868)">
+      <g transform="matrix(1, 0, 0, 1, -90, -90)" filter="url(#body)">
+        <path id="body-2" data-name="body" d="M199.171,1697.581c-103.124,0-186.724-83.6-186.724-186.721V4.63A12.449,12.449,0,0,1,0-7.82V-175.87a12.448,12.448,0,0,1,12.447-12.447v-49.793A12.448,12.448,0,0,1,0-250.557V-418.608a12.449,12.449,0,0,1,12.447-12.45v-93.36A12.448,12.448,0,0,1,0-536.865v-74.689A12.449,12.449,0,0,1,12.447-624V-798.279C12.447-901.4,96.046-985,199.171-985H1135.9c103.124,0,186.721,83.6,186.721,186.721V-365.7a12.449,12.449,0,0,1,12.45,12.447V-73.172a12.45,12.45,0,0,1-12.45,12.45V1510.86c0,103.124-83.6,186.721-186.721,186.721Z" transform="translate(90 1075)" fill="#fff"/>
+      </g>
+      <path id="camera" d="M260.633-946.87A19.127,19.127,0,0,1,279.762-966a19.13,19.13,0,0,1,19.132,19.129,19.133,19.133,0,0,1-19.132,19.133A19.131,19.131,0,0,1,260.633-946.87ZM56.567-937.3A9.569,9.569,0,0,1,47-946.87a9.566,9.566,0,0,1,9.568-9.564h149.86a9.563,9.563,0,0,1,9.565,9.564,9.566,9.566,0,0,1-9.565,9.567Z" transform="translate(536.037 1022.311)" fill="#eeeef2"/>
+    </g>
+    <g id="YOUR_DESIGN" data-name="YOUR DESIGN" transform="translate(316.599 273.613)" clip-path="url(#clip-path)">
+      <rect id="Home_Screen" data-name="Home Screen" width="1202" height="2590" transform="translate(-4.001 0.984)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
